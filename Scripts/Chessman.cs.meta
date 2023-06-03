@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f704e791b713adf44a35d7c6e6ad027a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - movePlate: {instanceID: 0}
+  - crni_vojnik: {fileID: 21300000, guid: 4ec384946ebceac48b0db402c4a99393, type: 3}
+  - crni_kralj: {fileID: 21300000, guid: 7625b0532230b51478c792c1889e9a8a, type: 3}
+  - crni_strelac: {fileID: 21300000, guid: 4195ddcbb7b10b1409ac571a7d3aea9c, type: 3}
+  - beli_vojnik: {fileID: 21300000, guid: 97438006b42dae84aa6a9561c7927a96, type: 3}
+  - beli_kralj: {fileID: 21300000, guid: 76aef2e50bb533a48af81c2fcc5ba66f, type: 3}
+  - beli_strelac: {fileID: 21300000, guid: f0a68e7832b7ebb4798e00c487134649, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
